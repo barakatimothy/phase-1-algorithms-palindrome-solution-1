@@ -312,3 +312,14 @@ In this lesson, we applied a problem solving process to one specific algorithm
 problem. In the next lesson, we'll work through an alternate solution and
 compare the two solutions we came up with from a performance and readability
 standpoint.
+
+
+
+```
+mom === mom //true
+abc === cba//false 
+ 
+A function that returns true if a wword is palindrome or false if not meaning if the string is the same if reversed then return true.
+
+
+````
